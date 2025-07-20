@@ -46,6 +46,16 @@ body {
   margin-bottom: 1rem;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
+.accomplishments-list{
+  list-style-type: none;
+  padding: 0;
+}
+.accomplishments-list li {
+  background: #dbe9f4;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border-left: 5px solid #1185ea;
+}
 .skills-list {
   list-style-type: none;
   padding: 0;
